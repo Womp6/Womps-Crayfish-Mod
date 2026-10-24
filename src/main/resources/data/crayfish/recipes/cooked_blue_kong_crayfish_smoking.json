@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_blue_kong_crayfish"
+    },
+    "result": "crayfish:cooked_blue_kong_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

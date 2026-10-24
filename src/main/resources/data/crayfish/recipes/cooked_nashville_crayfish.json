@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "crayfish:raw_nashville_crayfish"
+    },
+    "result": "crayfish:cooked_nashville_crayfish",
+    "experience": 0.7,
+    "cookingtime": 200
+  }

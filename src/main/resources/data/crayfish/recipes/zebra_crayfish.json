@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "TPT",
+        "#T#"
+    ],
+    "key": {
+        "#": {
+            "item": "crayfish:raw_zebra_crayfish"
+        },
+        "T": {
+            "item": "crayfish:cooked_zebra_crayfish"
+        },
+        "P": {
+            "tag": "crayfish:fish_buckets"
+        }
+    },
+    "result": {
+        "item": "crayfish:zebra_crayfish",
+        "count": 1
+    },
+    "group": "crayfish:zebra_crayfish"
+}

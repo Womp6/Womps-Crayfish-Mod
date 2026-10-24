@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "TPT",
+        "#T#"
+    ],
+    "key": {
+        "#": {
+            "item": "crayfish:raw_big_sandy_crayfish"
+        },
+        "T": {
+            "item": "crayfish:cooked_big_sandy_crayfish"
+        },
+        "P": {
+            "tag": "crayfish:fish_buckets"
+        }
+    },
+    "result": {
+        "item": "crayfish:big_sandy_crayfish",
+        "count": 1
+    },
+    "group": "crayfish:big_sandy_crayfish"
+}

@@ -1,0 +1,54 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:rusty_crayfish"
+      },
+      "title": "Good Friends",
+      "description": "Obtain a crayfish inventoy pet",
+      "hidden": false,
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:crayfish_cooker",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:crayfish",
+                "crayfish:louisiana_crayfish",
+                "crayfish:sapphire_crayfish",
+                "crayfish:zebra_crayfish",
+                "crayfish:supernova_crayfish",
+                "crayfish:rusty_crayfish",
+                "crayfish:virile_crayfish",
+                "crayfish:signal_crayfish",
+                "crayfish:white_tubercled_crayfish",
+                "crayfish:swamp_dwarf_crayfish",
+                "crayfish:australian_redclaw_crayfish",
+                "crayfish:big_sandy_crayfish",
+                "crayfish:spinycheek_crayfish",
+                "crayfish:parkhill_prairie_crayfish",
+                "crayfish:common_yabby_crayfish",
+                "crayfish:nashville_crayfish",
+                "crayfish:murray_crayfish",
+                "crayfish:tasmanian_giant_crayfish",
+                "crayfish:japanese_crayfish",
+                "crayfish:marbled_crayfish",
+                "crayfish:orange_dwarf_crayfish",
+                "crayfish:slough_crayfish",
+                "crayfish:cave_crayfish",
+                "crayfish:noble_crayfish",
+                "crayfish:hairy_marron_crayfish",
+                "crayfish:thunderbolt_crayfish",
+                "crayfish:blue_kong_crayfish"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

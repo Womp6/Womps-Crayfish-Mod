@@ -1,0 +1,28 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:burnt_crayfish"
+      },
+      "title": "Do I Smell Smoke?",
+      "description": "Obtain a burnt crayfish",
+      "hidden": false,
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:crayfish_cooker",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:burnt_crayfish"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

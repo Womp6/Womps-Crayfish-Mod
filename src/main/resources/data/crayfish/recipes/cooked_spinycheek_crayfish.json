@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "crayfish:raw_spinycheek_crayfish"
+    },
+    "result": "crayfish:cooked_spinycheek_crayfish",
+    "experience": 0.7,
+    "cookingtime": 200
+  }

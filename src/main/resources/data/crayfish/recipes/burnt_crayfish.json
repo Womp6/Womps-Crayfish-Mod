@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "crayfish:cooked_crayfish"
+  },
+  "result": "crayfish:burnt_crayfish",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "group": "crayfish:burnt_crayfish"
+}

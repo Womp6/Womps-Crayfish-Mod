@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_white_tubercled_crayfish"
+    },
+    "result": "crayfish:cooked_white_tubercled_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

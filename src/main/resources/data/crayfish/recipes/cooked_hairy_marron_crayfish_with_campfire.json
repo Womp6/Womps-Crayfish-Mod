@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "crayfish:raw_hairy_marron_crayfish"
+    },
+    "result": "crayfish:cooked_hairy_marron_crayfish",
+    "experience": 0.7,
+    "cookingtime": 200
+  }

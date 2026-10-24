@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:clayfish"
+      },
+      "title": "Too Many Clayfish!",
+      "description": "Obtain a stack of clayfish",
+      "hidden": false,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:it_begins",
+    "rewards": {
+        "experience": 100
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:clayfish"
+              ],
+              "count": 64
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,171 @@
+{
+    "type": "minecraft:fishing",
+    "pools": [
+      {
+        "rolls": 1,
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 60,
+            "name": "minecraft:cod"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 25,
+            "name": "minecraft:salmon"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:tropical_fish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 13,
+            "name": "minecraft:pufferfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "crayfish:raw_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 4,
+            "name": "crayfish:clayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "crayfish:raw_sapphire_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_louisiana_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_white_tubercled_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_zebra_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "crayfish:raw_virile_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_rusty_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_supernova_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_signal_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_swamp_dwarf_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 9,
+            "name": "crayfish:raw_australian_redclaw_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "crayfish:raw_big_sandy_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_spinycheek_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_parkhill_prairie_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 9,
+            "name": "crayfish:raw_common_yabby_crayfish"
+          },
+          {
+            "type":"minecraft:item",
+            "weight": 5,
+            "name": "crayfish:raw_nashville_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_murray_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_tasmanian_giant_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_japanese_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "crayfish:raw_marbled_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_orange_dwarf_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "crayfish:raw_slough_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "crayfish:raw_cave_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "crayfish:raw_noble_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_hairy_marron_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_thunderbolt_crayfish"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "crayfish:raw_blue_kong_crayfish"
+          }
+        ]
+      }
+    ]
+  }

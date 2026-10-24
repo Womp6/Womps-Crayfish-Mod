@@ -1,0 +1,71 @@
+{
+    "entity.crayfish.hurt": {
+        "category": "entity",
+        "subtitle": "Crayfish hurts",
+        "sounds": [
+            {
+                "name": "crayfish:entity/hurt_0"
+            },
+            {
+                "name": "crayfish:entity/hurt_1"
+            }
+        ]
+    },
+    "entity.crayfish.attack": {
+        "category": "entity",
+        "subtitle": "Crayfish attacks",
+        "sounds": [
+            {
+                "name": "crayfish:entity/attack"
+            }
+        ]
+    },
+    "entity.crayfish.death": {
+        "category": "entity",
+        "subtitle": "Crayfish dies",
+        "sounds": [
+            {
+                "name": "crayfish:entity/death"
+            }
+        ]
+    },
+    "entity.crayfish.hatch": {
+        "category": "block",
+        "subtitle": "Crayfishes hatch",
+        "sounds": [
+            {
+                "name": "minecraft:block/frogspawn/hatch1",
+                "pitch": 1.2,
+                "volume": 0.6
+              },
+              {
+                "name": "minecraft:block/frogspawn/hatch2",
+                "pitch": 1.2,
+                "volume": 0.6
+              },
+              {
+                "name": "minecraft:block/frogspawn/hatch3",
+                "pitch": 1.2,
+                "volume": 0.6
+              },
+              {
+                "name": "minecraft:block/frogspawn/hatch4",
+                "pitch": 1.2,
+                "volume": 0.6
+              }
+        ]
+    },
+    "entity.crayfish.lay_eggs": {
+      "sounds": [
+        {
+          "name": "minecraft:mob/frog/lay_spawn1",
+          "volume": 0.25
+        },
+        {
+          "name": "minecraft:mob/frog/lay_spawn2",
+          "volume": 0.25
+        }
+      ],
+      "subtitle": "Crayfish lays eggs"
+    }
+}

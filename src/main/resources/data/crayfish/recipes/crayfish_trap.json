@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chain"
+        }
+    },
+    "result": {
+        "item": "crayfish:crayfish_trap",
+        "count": 1
+    }
+}

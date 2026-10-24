@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "crayfish:cooked_louisiana_crayfish"
+        },
+        {
+            "item": "crayfish:cooked_louisiana_crayfish"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "item": "crayfish:gumbo",
+        "count": 1
+    },
+    "group": "crayfish:gumbo"
+}

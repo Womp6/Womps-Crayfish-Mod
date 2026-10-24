@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "tag": "crayfish:cooked_crayfish"
+        },
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "item": "crayfish:light_crayfish_stew",
+        "count": 1
+    },
+    "group": "crayfish:light_crayfish_stew"
+}

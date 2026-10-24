@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_common_yabby_crayfish"
+    },
+    "result": "crayfish:cooked_common_yabby_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

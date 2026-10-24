@@ -1,0 +1,31 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:gumbo"
+      },
+      "title": "Fancy Crayfish Cooker",
+      "description": "Make a Crayfish Food Dish",
+      "hidden": false,
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:crayfish_cooker",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:gumbo",
+                "crayfish:crayfish_stew",
+                "crayfish:light_crayfish_stew",
+                "crayfish:crayfish_boil"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "crayfish:raw_orange_dwarf_crayfish"
+    },
+    "result": "crayfish:cooked_orange_dwarf_crayfish",
+    "experience": 0.7,
+    "cookingtime": 200
+  }

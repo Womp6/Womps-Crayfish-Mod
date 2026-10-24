@@ -1,0 +1,54 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:cooked_supernova_crayfish"
+      },
+      "title": "Crayfish Cooker",
+      "description": "Cook a crayfish",
+      "hidden": false,
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:it_begins",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:cooked_louisiana_crayfish",
+                "crayfish:cooked_white_tubercled_crayfish",
+                "crayfish:cooked_crayfish",
+                "crayfish:cooked_signal_crayfish",
+                "crayfish:cooked_virile_crayfish",
+                "crayfish:cooked_zebra_crayfish",
+                "crayfish:cooked_supernova_crayfish",
+                "crayfish:cooked_sapphire_crayfish",
+                "crayfish:cooked_rusty_crayfish",
+                "crayfish:cooked_swamp_dwarf_crayfish",
+                "crayfish:cooked_australian_redclaw_crayfish",
+                "crayfish:cooked_big_sandy_crayfish",
+                "crayfish:cooked_spinycheek_crayfish",
+                "crayfish:cooked_parkhill_prairie_crayfish",
+                "crayfish:cooked_common_yabby_crayfish",
+                "crayfish:cooked_nashville_crayfish",
+                "crayfish:cooked_murray_crayfish",
+                "crayfish:cooked_tasmanian_giant_crayfish",
+                "crayfish:cooked_japanese_crayfish",
+                "crayfish:cooked_marbled_crayfish",
+                "crayfish:cooked_orange_dwarf_crayfish",
+                "crayfish:cooked_slough_crayfish",
+                "crayfish:cooked_cave_crayfish",
+                "crayfish:cooked_noble_crayfish",
+                "crayfish:cooked_hairy_marron_crayfish",
+                "crayfish:cooked_thunderbolt_crayfish",
+                "crayfish:cooked_blue_kong_crayfish"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

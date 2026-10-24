@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "crayfish:raw_thunderbolt_crayfish_crayfish"
+    },
+    "result": "crayfish:cooked_thunderbolt_crayfish",
+    "experience": 0.7,
+    "cookingtime": 200
+  }

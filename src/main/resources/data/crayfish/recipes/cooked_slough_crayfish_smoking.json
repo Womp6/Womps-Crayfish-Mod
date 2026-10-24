@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_slough_crayfish"
+    },
+    "result": "crayfish:cooked_slough_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

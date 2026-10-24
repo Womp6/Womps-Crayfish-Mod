@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "TPT",
+        "#T#"
+    ],
+    "key": {
+        "#": {
+            "item": "crayfish:raw_australian_redclaw_crayfish"
+        },
+        "T": {
+            "item": "crayfish:cooked_australian_redclaw_crayfish"
+        },
+        "P": {
+            "tag": "crayfish:fish_buckets"
+        }
+    },
+    "result": {
+        "item": "crayfish:australian_redclaw_crayfish",
+        "count": 1
+    },
+    "group": "crayfish:australian_redclaw_crayfish"
+}

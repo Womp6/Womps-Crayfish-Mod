@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:burnt_crayfish"
+      },
+      "title": "Crayfish Burner",
+      "description": "Obtain a stack of burnt crayfish",
+      "hidden": false,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:do_i_smell_smoke",
+    "rewards": {
+        "experience": 100
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:burnt_crayfish"
+              ],
+              "count": 64
+            }
+          ]
+        }
+      }
+    }
+  }

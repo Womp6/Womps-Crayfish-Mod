@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_australian_redclaw_crayfish"
+    },
+    "result": "crayfish:cooked_australian_redclaw_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

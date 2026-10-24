@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "crayfish:supercrayfish"
+      },
+      "title": "Supercrayfish Lover",
+      "description": "Obtain a stack of Supercrayfish",
+      "hidden": false,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "crayfish:the_secret",
+    "rewards": {
+        "experience": 150
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "crayfish:supercrayfish"
+              ],
+              "count": 64
+            }
+          ]
+        }
+      }
+    }
+  }

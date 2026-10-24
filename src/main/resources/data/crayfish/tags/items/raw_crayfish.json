@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        "crayfish:raw_crayfish",
+        "crayfish:clayfish",
+        "crayfish:raw_louisiana_crayfish",
+        "crayfish:raw_sapphire_crayfish",
+        "crayfish:raw_zebra_crayfish",
+        "crayfish:raw_supernova_crayfish",
+        "crayfish:raw_rusty_crayfish",
+        "crayfish:raw_virile_crayfish",
+        "crayfish:raw_signal_crayfish",
+        "crayfish:raw_white_tubercled_crayfish",
+        "crayfish:raw_swamp_dwarf_crayfish",
+        "crayfish:raw_australian_redclaw_crayfish",
+        "crayfish:raw_big_sandy_crayfish",
+        "crayfish:raw_spinycheek_crayfish",
+        "crayfish:raw_parkhill_prairie_crayfish",
+        "crayfish:raw_common_yabby_crayfish",
+        "crayfish:raw_nashville_crayfish",
+        "crayfish:raw_murray_crayfish",
+        "crayfish:raw_tasmanian_giant_crayfish",
+        "crayfish:raw_japanese_crayfish",
+        "crayfish:raw_marbled_crayfish",
+        "crayfish:raw_orange_dwarf_crayfish",
+        "crayfish:raw_slough_crayfish",
+        "crayfish:raw_cave_crayfish",
+        "crayfish:raw_noble_crayfish",
+        "crayfish:raw_hairy_marron_crayfish",
+        "crayfish:raw_thunderbolt_crayfish",
+        "crayfish:raw_blue_kong_crayfish"
+    ]
+}

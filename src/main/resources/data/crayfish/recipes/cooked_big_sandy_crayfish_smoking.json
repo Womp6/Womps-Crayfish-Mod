@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "crayfish:raw_big_sandy_crayfish"
+    },
+    "result": "crayfish:cooked_big_sandy_crayfish",
+    "experience": 0.7,
+    "cookingtime": 100
+  }

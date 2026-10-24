@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "crayfish",
+  "version": "${version}",
+
+  "name": "Womp's Crayfish Mod",
+  "description": "Adds crayfish to the game.",
+  "authors": [
+    "Womp"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/womps-crayfish-mod",
+    "sources": "https://www.youtube.com/channel/UCzq6zfV2gkp-4m7hT4p9PBg"
+  },
+
+  "license": "MIT",
+  "icon": "assets/crayfish/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "womp.crayfish.mod.CrayfishMod"
+    ],
+    "client": [
+      "womp.crayfish.mod.client.CrayfishClient"
+    ]
+  },
+  "mixins": [
+    "crayfish.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.20.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

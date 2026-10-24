@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        },
+        {
+            "tag": "crayfish:crayfish"
+        }
+    ],
+    "result": {
+        "item": "crayfish:supercrayfish",
+        "count": 1
+    }
+}
